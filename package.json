@@ -15,7 +15,7 @@
     "@dnd-kit/utilities": "^3.2.2",
     "@vercel/analytics": "^1.6.1",
     "hls.js": "^1.6.15",
-    "next": "16.0.7",
+    "next": "16.0.10",
     "react": "19.2.1",
     "react-dom": "19.2.1",
     "zustand": "^5.0.9"
